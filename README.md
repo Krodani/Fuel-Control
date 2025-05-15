@@ -1,5 +1,4 @@
-# Torch-Manager
-
+# Torch Manager
 ### What is This?
 
 It is an application that is responsible for calculating the fuel to be used for the session, very useful to maximize the weight of the vehicle and be faster in the race.
