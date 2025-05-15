@@ -1,0 +1,47 @@
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Debug\Fuel Control.exe.config
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Debug\Fuel Control.exe.manifest
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Debug\Fuel Control.application
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Debug\Fuel Control.exe
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Debug\Fuel Control.pdb
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Debug\en\Fuel Control.resources.dll
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Debug\nds\Fuel Control.resources.dll
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.about.resources
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.fuelControl.resources
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.Properties.Resources.resources
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.about.en.resources
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.fuelControl.en.resources
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.fuelControl.nds.resources
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.csproj.GenerateResource.cache
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.csproj.CoreCompileInputs.cache
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\en\Fuel Control.resources.dll
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\nds\Fuel Control.resources.dll
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.TrustInfo.xml
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.exe.manifest
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.application
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.exe
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.pdb
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.csproj.AssemblyReference.cache
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\bin\Debug\Fuel Control.exe.config
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\bin\Debug\Fuel Control.exe.manifest
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\bin\Debug\Fuel Control.application
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\bin\Debug\Fuel Control.exe
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\bin\Debug\Fuel Control.pdb
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\bin\Debug\en\Fuel Control.resources.dll
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\bin\Debug\nds\Fuel Control.resources.dll
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.csproj.AssemblyReference.cache
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.exe.config
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.about.resources
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.fuelControl.resources
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.Properties.Resources.resources
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.about.en.resources
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.fuelControl.en.resources
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.fuelControl.nds.resources
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.csproj.GenerateResource.cache
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.csproj.CoreCompileInputs.cache
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\en\Fuel Control.resources.dll
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\nds\Fuel Control.resources.dll
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.TrustInfo.xml
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.exe.manifest
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.application
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.exe
+C:\Users\Krobu\Desktop\gasolina por vuelta\gasolina por vuelta\obj\Debug\Fuel Control.pdb

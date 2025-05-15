@@ -1,0 +1,10 @@
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Debug\gasolina por vuelta.exe.config
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Debug\gasolina por vuelta.exe
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Debug\gasolina por vuelta.pdb
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina por vuelta.csprojAssemblyReference.cache
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.Properties.Resources.resources
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina por vuelta.csproj.GenerateResource.cache
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina por vuelta.csproj.CoreCompileInputs.cache
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina por vuelta.exe
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina por vuelta.pdb
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Debug\gasolina_por_vuelta.cc.resources

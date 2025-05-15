@@ -1,0 +1,23 @@
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\Fuel Control.csprojAssemblyReference.cache
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\gasolina_por_vuelta.fuelControl.resources
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\gasolina_por_vuelta.Properties.Resources.resources
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\Fuel Control.csproj.GenerateResource.cache
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\Fuel Control.csproj.CoreCompileInputs.cache
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Release\Fuel Control.exe.config
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Release\Fuel Control.exe
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Release\Fuel Control.pdb
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\Fuel Control.exe
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\Fuel Control.pdb
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Release\Fuel Control.exe.manifest
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Release\Fuel Control.application
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\Fuel Control.TrustInfo.xml
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\Fuel Control.exe.manifest
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\Fuel Control.application
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\gasolina_por_vuelta.about.resources
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\gasolina_por_vuelta.fuelControl.nds.resources
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\nds\Fuel Control.resources.dll
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\gasolina_por_vuelta.fuelControl.en.resources
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\en\Fuel Control.resources.dll
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Release\en\Fuel Control.resources.dll
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\bin\Release\nds\Fuel Control.resources.dll
+C:\Users\Krobu\source\repos\gasolina por vuelta\gasolina por vuelta\obj\Release\gasolina_por_vuelta.about.en.resources
